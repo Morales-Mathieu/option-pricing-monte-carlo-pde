@@ -88,8 +88,8 @@ option-pricing-monte-carlo-pde/
 │
 ├── requirements.txt
 └── README.md
-
-## How to Run
+```
+## How to run 
 
 Create a virtual environment and install dependencies:
 
