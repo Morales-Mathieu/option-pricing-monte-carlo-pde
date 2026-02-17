@@ -99,6 +99,7 @@ pip install -r requirements.txt
 
 
 ## Run the Main Notebook
+
 Open and execute:
 ```bash
     notebooks/option_pricing_mc_vs_pde.ipynb
