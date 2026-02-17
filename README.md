@@ -1,4 +1,4 @@
-# Option Pricing — Monte Carlo vs PDE Methods  
+# Option Pricing — Monte Carlo and PDE Methods  
 ### Numerical Comparison under the Black–Scholes Framework
 
 ---
