@@ -16,7 +16,7 @@ The objective is to:
 - Analyze computational trade-offs between probabilistic and deterministic approaches  
 
 Full HTML notebook available here: 
-(https://Morales-Mathieu.github.io/option-pricing-monte-carlo-pde/notebooks.html)
+(https://Morales-Mathieu.github.io/option-pricing-monte-carlo-pde/index.html)
 
 ---
 
